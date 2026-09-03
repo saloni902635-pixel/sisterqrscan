@@ -1,1 +1,1 @@
-Replace app.py in GitHub with this version. Keep assets/photo.jpg. This version embeds the photo as base64 and avoids st.image MediaFileStorageError.
+sister
